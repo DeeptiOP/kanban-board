@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* small custom utilities */
+html,body,#root { height: 100%; }
+body { background-color: #0f172a; color: #e2e8f0; }
